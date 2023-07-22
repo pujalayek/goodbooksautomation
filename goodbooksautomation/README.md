@@ -47,6 +47,15 @@
    ```
    3. Call the newly created methods under the TODO block
 
+   4. 
+## Aditionaal Info
+driver.findElement(By.xpath("//*[@id='ap_email']")).sendKeys("***@**.**");
+give Email address
+
+driver.findElement(By.xpath("//*[@id='ap_password']")).sendKeys("*****");
+give password
+
+Please sign up to the portal before using the demo test
 
 
 
